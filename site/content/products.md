@@ -18,7 +18,12 @@ intro:
 
         Three days dedicated to food and wine,  
     - image: /img/IMG_0025.jpg
-      text: ON LOCATION WORKSHOPS
+      text: >-
+        ON LOCATION WORKSHOPS: How to make the best in home cooking. Cooking at
+        home can be also creative and extravagant, simple and delicious. Our
+        classes are focused in one subject: pasta, fish and meat, starters,
+        baked breads and pastry, patisserie, plated desserts. They last about 6
+        hours and off course we end with a good meal and a glass of wine. 
     - image: /img/IMG_0186.JPG
       text: PRIVATE CATERINGS
     - image: /img/illustrations/meeting-space.svg
