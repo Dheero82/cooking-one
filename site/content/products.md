@@ -16,7 +16,7 @@ intro:
         COOKING HOLIDAYS: this is our favorite way to share what we have been
         learning for all these years.
 
-        Three days dedicated to food and wine,  
+        Three days dedicated to food and wine. 
     - image: /img/IMG_0025.jpg
       text: >-
         ON LOCATION WORKSHOPS: How to make the best in home cooking. Cooking at
@@ -27,7 +27,11 @@ intro:
     - image: /img/IMG_0186.JPG
       text: PRIVATE CATERINGS
     - image: /img/illustrations/meeting-space.svg
-      text: TAILORED EVENTS
+      text: >-
+        TAILORED EVENTS: everyone has a wish or two, and off course we give you
+        the the space to customize your holiday, catering, cooking class.
+
+        please feel free to contact us something@gmail.com
   heading: Who We Are
   description: >-
     We are dedicated chefs and passionate eaters, but most of all We love to
@@ -35,10 +39,10 @@ intro:
 main:
   heading: Great food with no compromises
   description: >
-    We hold our cooking to the highest standards from the sourcing of our
+    We hold our cooking to the highest standards, from the sourcing of our
     ingredients to the dedication of our teaching. That’s why we’re meticulous
-    and transparent about each step of the coffee’s journey. We personlly visit
-    each farm, butcher, fish supplier  to make sure of the quality of our
+    and transparent about each step of the Gastronomic journey. We personally
+    visit each farm, butcher, fish supplier  to make sure of the quality of our
     ingredients, locally sourced ingredients are the base of good food.  
   image1:
     alt: A close-up of a paper filter filled with ground coffee
