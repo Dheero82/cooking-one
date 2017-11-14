@@ -20,7 +20,9 @@ intro:
     - image: /img/illustrations/meeting-space.svg
       text: TAILORED EVENTS
   heading: What we offer
-  description: ''
+  description: >-
+    we are dedicated chefs and passionate eaters, but most of all we love to
+    sread our knowledge
 main:
   heading: Great coffee with no compromises
   description: >
