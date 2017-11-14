@@ -13,16 +13,18 @@ intro:
   blurbs:
     - image: /img/IMG_0319.jpg
       text: >-
-        COOKING HOLIDAYS: this is our favorite way to share what we have been
+        COOKING HOLIDAYS: this is our favorite way to share what we`ve been
         learning for all these years.
 
-        Three days dedicated to food and wine. 
+        Three days dedicated to food and wine. During this journey we`ll teach
+        you how to shop in markets, expand your cooking, create a menu and pair
+        the perfect wine.
     - image: /img/IMG_0025.jpg
       text: >-
         ON LOCATION WORKSHOPS: How to make the best in home cooking. Cooking at
-        home can be also creative and extravagant, simple and delicious. Our
-        classes are focused in one subject: pasta, fish and meat, starters,
-        baked breads and pastry, patisserie, plated desserts. They last about 6
+        home can be also Creative and Extravagant or Simple and Delicious. Our
+        classes are focused in one subject: pasta, fish or meat, starters, baked
+        breads and pastry, patisserie, plated desserts. lessons last about 6
         hours and off course we end with a good meal and a glass of wine. 
     - image: /img/IMG_0186.JPG
       text: PRIVATE CATERINGS
@@ -35,7 +37,7 @@ intro:
   heading: Who We Are
   description: >-
     We are dedicated chefs and passionate eaters, but most of all We love to
-    spread our knowledge.
+    spread our knowledge.   
 main:
   heading: Great food with no compromises
   description: >
