@@ -24,12 +24,13 @@ intro:
     we are dedicated chefs and passionate eaters, but most of all we love to
     sread our knowledge
 main:
-  heading: Great coffee with no compromises
+  heading: Great food with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    We hold our cooking to the highest standards from the sourcing of our
+    ingredients to the dedication of our teaching. That’s why we’re meticulous
+    and transparent about each step of the coffee’s journey. We personlly visit
+    each farm, butcher, fish supplier  to make sure of the quality of our
+    ingredients, locally sourced ingredients are the base of good food.  
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products/products-grid3.jpg
