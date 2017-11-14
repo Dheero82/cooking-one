@@ -19,10 +19,10 @@ intro:
       text: PRIVATE CATERINGS
     - image: /img/illustrations/meeting-space.svg
       text: TAILORED EVENTS
-  heading: What we offer
+  heading: Who We Are
   description: >-
-    we are dedicated chefs and passionate eaters, but most of all we love to
-    sread our knowledge
+    We are dedicated chefs and passionate eaters, but most of all We love to
+    spread our knowledge.
 main:
   heading: Great food with no compromises
   description: >
