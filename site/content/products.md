@@ -12,7 +12,11 @@ description: >-
 intro:
   blurbs:
     - image: /img/IMG_0319.jpg
-      text: COOKING HOLIDAYS
+      text: >-
+        COOKING HOLIDAYS: this is our favorite way to share what we have been
+        learning for all these years.
+
+        Three days dedicated to food and wine,  
     - image: /img/IMG_0025.jpg
       text: ON LOCATION WORKSHOPS
     - image: /img/IMG_0186.JPG
