@@ -50,7 +50,7 @@ testimonials:
       stance on empowering farmers and transparency.
 full_image: /img/products/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Our Prices
   description: >-
     We make it easy to make great food a part of your life. Contact us about
     more details and payment info.
