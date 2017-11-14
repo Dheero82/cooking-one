@@ -11,11 +11,11 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/illustrations/coffee.svg
+    - image: /img/IMG_0319.jpg
       text: COOKING HOLIDAYS
-    - image: /img/illustrations/coffee-gear.svg
+    - image: /img/IMG_0025.jpg
       text: ON LOCATION WORKSHOPS
-    - image: /img/illustrations/tutorials.svg
+    - image: /img/IMG_0186.JPG
       text: PRIVATE CATERINGS
     - image: /img/illustrations/meeting-space.svg
       text: TAILORED EVENTS
@@ -33,10 +33,10 @@ main:
     ingredients, locally sourced ingredients are the base of good food.  
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products/products-grid3.jpg
+    image: /img/IMG_4050.JPG
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products/products-grid2.jpg
+    image: /img/IMG_0305.jpg
   image3:
     alt: Coffee beans
     image: /img/products/products-grid1.jpg
